@@ -17,7 +17,7 @@ h2, h4, p {
 }
 
 #card {
-  width: 80%; /*600px, responsive %*/
+  width: 600px; /*600px, responsive 80%*/
   height: 400px; /*general, almost this height*/
   box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
   border-radius: 5px;
